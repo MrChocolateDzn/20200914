@@ -10,11 +10,10 @@
 <?php
 
 
-   echo "Le professeur le plus sévère est M: ".$_GET["prenomProf"]." ".$_GET["nomProf"]."<br />";
+echo "Le délégué est : ".$_GET["prenomDelegue"]." ".$_GET["nomDelegue"]."<br />";
 
 
 ?>
 </body>
 </html>
-
 
